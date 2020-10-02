@@ -1,2 +1,2 @@
 # Image_downloader
- Image Downloader Automation Script
+Scrap the  given web page and download all the images in it.
